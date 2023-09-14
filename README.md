@@ -1,4 +1,4 @@
-# Minimizing_Loan_Investment_Risks
+# Analyzing and Minimizing Loan Investment Risks using Random Forest Classifier
 The lending industry is constantly faced with the challenge of identifying potential loan defaulters to minimize financial risks. The dataset from LendingClub loan defaulters prediction provides valuable information for analyzing and predicting loan default risks. In this report, we explore the potential of using this dataset to analyze and develop a predictive model that can help lenders make informed decisions and minimize the risks associated with loan investments. By leveraging the power of the Random Forest Classifier, we aim to identify key factors and patterns that contribute to loan defaults and build a robust model that can accurately classify potential defaulters. Through analysis, we aim to provide insights and recommendations to improve risk assessment in loan investments and enhance the overall lending process.
 
 **Introduction:**
